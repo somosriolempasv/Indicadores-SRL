@@ -1,0 +1,6 @@
+* [Inicio](/)
+* [Acerca de](/about)
+* [Conceptos](_concepts)
+    * [Concepto 1](/concepts/concepto1)
+    * [Concepto 2](/concepts/concepto2)
+* [Guías](/guides)
